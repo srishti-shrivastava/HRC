@@ -1,0 +1,137 @@
+.outer{
+
+width: 1920px;
+height:769px;
+display:flex;
+background-repeat: no-repeat;
+background-color:#58687E;
+overflow: hidden;
+
+}
+
+.table{
+top: 141px;
+margin-left: 30px;
+overflow: hidden;
+width:1600px;
+height:620px;
+
+background: #283A46 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+position:absolute;
+overflow: hidden;
+}
+
+
+.predict{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 106px;
+    height: 45px;
+    background: #97A1A9 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    text-align: left;
+font: Ubuntu;
+font-size: 20px;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+
+.view{
+    variant:"outlined";
+margin-top: 30px;
+margin-left:30px;
+width: 237px;
+height: 45px;
+border: 1px solid #97A1A9;
+border-radius: 10px;
+opacity: 1;
+background: #273D49CC;
+text-align: left;
+font: Ubuntu;
+letter-spacing: 0px;
+font-size: 20px;
+color: #97A1A9;
+opacity: 1;
+text-align: center;
+}
+
+
+.add{
+    variant:"contained";
+    margin-top: 30px;
+    margin-left: 638px;
+    width: 99px;
+    height: 45px;
+border: 1px solid #14AFF1;
+border-radius: 10px;
+opacity: 1;
+background: #273D49CC;
+text-align: left;
+font: Ubuntu;
+font-size: 20px;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.newtbl{
+    margin-top: 30px;
+    color: #FFFFFF;
+}
+
+.edit{
+    variant:"outlined";
+    margin-top: 30px;
+    margin-left: 18px;
+    width: 99px;
+height: 45px;
+border: 1px solid #97A1A9;
+border-radius: 10px;
+
+background:#273D49CC ;
+opacity: 1;
+
+text-align: center;
+font: Ubuntu;
+font-size: 20px;
+letter-spacing: 0px;
+color: #97A1A9;
+}
+
+.delete{
+    variant:"outlined";
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 123px;
+    border: 1px solid #97A1A9;
+height: 45px;
+border-radius: 10px;
+opacity: 1;
+background: #273D49CC;
+text-align: center;
+font:Ubuntu;
+font-size: 20px;
+letter-spacing: 0px;
+color: #97A1A9;
+opacity: 1;
+}
+
+.input{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 340px;
+height: 45px;
+background: #283A46 0% 0% no-repeat padding-box;
+border: 1px solid #356680;
+border-radius: 10px;
+opacity: 1;
+text-align: left;
+font:Ubuntu;
+font-size: 20px;
+letter-spacing: 0px;
+color: #97A1A9;
+
+}

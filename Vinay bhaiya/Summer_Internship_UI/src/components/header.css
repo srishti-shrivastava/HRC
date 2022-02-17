@@ -1,0 +1,43 @@
+.property{
+top: 0px;
+left: 30px;
+width: 1650px;
+height:790px;
+display:flex;
+background-repeat: no-repeat;
+background-color:#58687E;
+overflow: hidden;
+}
+
+.imgage{
+width: 311px;
+height: 50px;
+top: 20px;
+left: 30px;
+flex:45%;
+opacity:1;
+}
+
+.logo{
+top: 22px;
+left:843px;
+width: 235px;
+height: 50px;
+flex:65%;
+opacity:1;
+}
+
+.invoice{
+
+margin-left: 20px;
+left:30px;
+top:100px;
+text-align: left;
+font-size: 28px;
+text-align: left;
+font:Ubuntu;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
